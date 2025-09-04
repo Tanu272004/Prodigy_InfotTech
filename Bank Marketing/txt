@@ -1,0 +1,39 @@
+🚀 Excited to share my latest project from my internship at #ProdigyInfotech!
+
+I worked on a Bank Marketing dataset to predict whether a customer will subscribe to a product based on their demographic and behavioral data.
+
+Key steps I followed:
+
+Data loading and exploration
+
+Data preprocessing & converting categorical features
+
+Feature-target split
+
+Train-test split
+
+Decision Tree model creation and training
+
+Predictions on test data
+
+Model evaluation using accuracy, confusion matrix, and classification report
+
+Identifying top features influencing customer decisions (like call duration and previous campaign outcome)
+
+Drawing business insights from model predictions
+
+💡 Knowledge Gained:
+
+Understanding how Decision Trees work for classification problems
+
+Learning to preprocess categorical and numeric data for ML models
+
+Evaluating model performance using accuracy, precision, recall, F1-score
+
+Identifying key factors (features) that drive customer decisions
+
+Practical exposure to data-driven decision making
+
+Grateful for this learning experience at #ProdigyInfotech! 🙌
+
+#DataScience #MachineLearning #BankMarketing #DecisionTree #Analytics #Internship #KnowledgeGain
